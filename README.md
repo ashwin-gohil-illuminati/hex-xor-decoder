@@ -31,3 +31,12 @@ This tool implements several bedrock concepts required for malware analysis and 
 Compiled using MinGW (GCC) for Windows environments:
 ```bash
 g++ HexDumpUtility.cpp -o HexDumpUtility.exe
+```
+
+
+## 🖥️ Terminal Output
+
+<img width="561" height="359" alt="Screenshot_2026-06-10_12-19-48" src="https://github.com/user-attachments/assets/6e39c861-5788-4e19-9639-be7329eae531" />
+
+
+
